@@ -6,5 +6,5 @@ elseif v.v("4991214437") then
 elseif v.v("3260590327") then
   print("TDS")
 elseif v.v("5041144419") then
-  print("SCP Roleplay")
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/catboy08/nil/scripts/gamez/scp-roleplay.lua"))()
 end
