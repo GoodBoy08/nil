@@ -50,14 +50,4 @@ return discord
         }).name)
     
     [/] Made by coolboy08#0064 [\]
-    
-    To use this thing you have to enable "Widgets" on your server:
-        Go to Server Settings/Widget and Enable Server Widget:
-        After that you need invite
-        After you got invite paste it in discord.api.invite
-        https://discord.com/api/v6/invite/INVITE CODE
-        Paste server id in discord.api.widget
-        https://discord.com/api/guilds/SERVER ID HERE/widget.json
-        
-    Done, easy.
 ]]
