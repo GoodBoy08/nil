@@ -10,8 +10,6 @@ discord.fetch = function(tab)
         Method = ("GET");
     }).Body)
 
-    wait(.1)
-
     discord.api.widget = HttpService:JSONDecode(request({
         Url = ("https://discord.com/api/guilds/"..tab.serverid.."/widget.json");
         Method = ("GET");
