@@ -1,9 +1,3 @@
---[[
-    Credits:
-        Hydroxide [Upbolt] : https://github.com/Upbolt/Hydroxide
-        Belkworks : https://github.com/Belkworks
-]]
-
 -- # Script Env
 
 local Players = game:service("Players")
